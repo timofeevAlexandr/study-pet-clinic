@@ -1,6 +1,6 @@
 package com.timofeev.alex.model;
 
-public class PetType {
+public class PetType extends BaseEntity{
 
     private String name;
 
